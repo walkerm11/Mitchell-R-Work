@@ -42,6 +42,8 @@ test2 <- data_frame(ICC_Data = icc(cbind(r1, r2, r3), "twoway"))
 
 # I don't know what is going on with this?
 
+# Okay, now I think I understand what's going on. First, make changes in R...
+
 
 
 
