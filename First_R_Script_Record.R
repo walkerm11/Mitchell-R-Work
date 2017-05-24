@@ -40,7 +40,7 @@ icc(cbind(r1, r2, r3), "twoway", "agreement") # Low agreement
 # This (below) is going to be very important for this project. 
 test2 <- data_frame(ICC_Data = icc(cbind(r1, r2, r3), "twoway"))
 
-# I still haven't figured it out, but getting closer. 
+# I don't know what is going on with this?
 
 
 
